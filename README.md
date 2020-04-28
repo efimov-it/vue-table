@@ -1,5 +1,6 @@
 # vue-table
-
+![Vue-table logo](https://efimov-it.github.io/vue-table/img/logo.b70d6af3.svg)
+A Vue js component for easy table creation
 ## Project setup
 ```
 npm install
